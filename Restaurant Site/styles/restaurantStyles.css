@@ -1,0 +1,63 @@
+/*
+Creator: Will Lutz
+Date created: 1/6/2020
+Date last modified: 1/6/2020
+*/
+
+header,footer {
+    background-color: #5b7d87;
+    color: #fef9ff;
+    height: 100px;
+    text-align: center;
+    padding: 30px 10px 20px 10px;
+  }
+
+section {
+    margin-bottom: 48px;
+  }
+
+.name {
+  font-family: arial, helvetica, sans-serif;
+}
+
+nav a:visited {
+    color: blue;
+}
+
+nav a:hover {
+    background-color: #fef9ff;
+    color: #5b7d87;
+    font-weight: bold;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav a {
+    background-color: #5b7d87;
+    color: #fef9ff;
+    padding: 8px;
+    border: thin solid #0d1f2d;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    margin: 20px;
+    width: 100px;
+
+}
+
+
+.clear-float {
+  clear:both;
+}
+
+nav .btn {
+    background-color: #5b7d87;
+    color: #fef9ff;
+
+}
+
+.tenderloin{
+  float:left;
+}
